@@ -1,6 +1,0 @@
-aiogram
-python-dotenv
-sqlalchemy
-asyncpg
-openai
-requests
