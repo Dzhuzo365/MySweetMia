@@ -4,7 +4,7 @@
 Это мой первый проект выполненный в соло, так что он написан достаточно криво. Если есть пожелания, можете написать мне в личку или оставить комметарий:
 
 ![icon_chat](https://img.icons8.com/?size=48&id=2WHX382zjkkB&format=png)
-[**MMM chanel**]((https://t.me/mysweetmiya)
+[**MMM chanel**](https://t.me/mysweetmiya)
 
 ![tg_icon](https://img.icons8.com/?size=48&id=85507&format=png)
 [**personal chat**](https://t.me/scrlette)
